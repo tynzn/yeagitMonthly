@@ -339,7 +339,7 @@
 							<h4><a href="service-single.html">Make Payment </a></h4>
 							<p>Processed to make the payment of N1,500 online or to our company Account Provided here, and get your fully functional website in no time</p>
 							<div class="button">
-								<a href="service-single.html" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Make payment here</a>
+								<a href="https://bit.ly/yeagitmonthlypayment" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Make payment here</a>
 							</div>
 						</div>
 						<!--/ End Single Feature -->
@@ -351,7 +351,7 @@
 							<h4><a href="service-single.html">Buy a Domain Name</a></h4>
 							<p>Domain name is the name of your website which you can buy here and we would link it to your website for you</p>
 							<div class="button">
-								<a href="service-single.html" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Buy Domain Name </a>
+								<a href="#" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Buy Domain Name </a>
 							</div>
 						</div>
 						<!--/ End Single Feature -->
