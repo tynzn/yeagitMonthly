@@ -243,8 +243,8 @@
 											<p>We are trusted by over 143 Small Business and Professionals in Nigeria</p>
 										</div>
 										<div class="button">
-											<a href="https:bit.ly/yeagitbisinfo" class="bizwheel-btn theme-1 effect">Get Started by Filling this information </a>
-											<a href="https:bit.ly/yeagitdesign" class="bizwheel-btn theme-2 effect">Choose a design </a>
+											<a href="https://bit.ly/yeagitbisinfo" class="bizwheel-btn theme-1 effect">Get Started by Filling this information </a>
+											<a href="https://bit.ly/yeagitdesign" class="bizwheel-btn theme-2 effect">Choose a design </a>
 										</div>
 									</div>
 								</div>
@@ -266,7 +266,7 @@
 											<p>We deliver top-notch, quality and effective website solutions tailored to your need </p>
 										</div>
 										<div class="button">
-											<a href="https:bit.ly/yeagitdesign" class="bizwheel-btn theme-1 effect">Lets Get Started</a>
+											<a href="https://bit.ly/yeagitdesign" class="bizwheel-btn theme-1 effect">Lets Get Started</a>
 										</div>
 									</div>
 								</div>
@@ -288,7 +288,7 @@
 											<p>With an online presece that speaks in tune with your current marketing</p>
 										</div>
 										<div class="button">
-											<a href="https:bit.ly/yeagitdesign" class="bizwheel-btn theme-2 effect">Our Leaders</a>
+											<a href="https://bit.ly/yeagitdesign" class="bizwheel-btn theme-2 effect">Our Leaders</a>
 										</div>
 									</div>
 								</div>
@@ -326,7 +326,7 @@
 							<h4><a href="service-single.html">Webiste Design</a></h4>
 							<p>Make a choice of how you want your website to look.Choose a website template that speaks and represent your business or professional portfolio</p>
 							<div class="button">
-								<a href="https:bit.ly/yeagitdesign" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Pick a Design</a>
+								<a href="https://bit.ly/yeagitdesign" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Pick a Design</a>
 							</div>
 						</div>
 						<!--/ End Single Feature -->
