@@ -219,13 +219,13 @@
 				<div class="row">
 					<div class="col-lg-9 col-12">
 						<div class="call-inner">
-							<h2>Get a fully fuctional website with only N1,500/month plan today </h2>
-							<p> You don't need to chunck out alot of money to get online presence for your business.Get a professional website with only N1,500/month Suitable for Corporate brands, Small business and entreprenuers  </p>
+							<h2>Get a fully fuctional website with only N5,000/month plan today </h2>
+							<p> You don't need to chunck out alot of money to get online presence for your business.Get a professional website with only N5,000month Suitable for Corporate brands, Small business and entreprenuers  </p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-12">
 						<div class="button">
-							<a href="https://bit.ly/yeagitbisinfo" class="bizwheel-btn">Get Started</a>
+							<a href="https://wa.me/message/N7QX6UWDDIOKI1" class="bizwheel-btn">Get Started</a>
 						</div>
 					</div>
 				</div>
@@ -248,15 +248,15 @@
 								<div class="welcome-text"> 
 									<div class="hero-text"> 
 										<h4>Get a website in only 4 easy steps..</h4>
-										<h2>1.Fill your business information  <br>2. Pick a Design<br> 3.Pay N1,500 monthly <br>4.Buy Domain name
+										<h2>1.Fill your business information  <br>2. Pick a Design<br> 3.Pay N5,000 monthly <br>4.Buy Domain name
 
 										</h2>
 										<div class="p-text">
 											<p>We are trusted by over 143 Small Business and Professionals in Nigeria</p>
 										</div>
 										<div class="button">
-											<a href="https://bit.ly/yeagitbisinfo" class="bizwheel-btn theme-1 effect">Get Started by Filling this information </a>
-											<a href="https://bit.ly/yeagitdesign" class="bizwheel-btn theme-2 effect">Choose a design </a>
+											<a href="https://wa.me/message/N7QX6UWDDIOKI1" class="bizwheel-btn theme-1 effect">Get Started by Filling this information </a>
+											<a href="https://wa.me/message/N7QX6UWDDIOKI1" class="bizwheel-btn theme-2 effect">Choose a design </a>
 										</div>
 									</div>
 								</div>
@@ -278,7 +278,7 @@
 											<p>We deliver top-notch, quality and effective website solutions tailored to your need </p>
 										</div>
 										<div class="button">
-											<a href="https://bit.ly/yeagitdesign" class="bizwheel-btn theme-1 effect">Lets Get Started</a>
+											<a href="https://wa.me/message/N7QX6UWDDIOKI1" class="bizwheel-btn theme-1 effect">Lets Get Started</a>
 										</div>
 									</div>
 								</div>
@@ -300,7 +300,7 @@
 											<p>With an online presece that speaks in tune with your current marketing</p>
 										</div>
 										<div class="button">
-											<a href="https://bit.ly/yeagitdesign" class="bizwheel-btn theme-2 effect">Our Leaders</a>
+											<a href="https://wa.me/message/N7QX6UWDDIOKI1" class="bizwheel-btn theme-2 effect">Our Leaders</a>
 										</div>
 									</div>
 								</div>
@@ -326,7 +326,7 @@
 							<h4><a href="service-single.html">Provide Business Information</a></h4>
 							<p>Kindly provide the information that would be updated on your website, type of business amd contact informations like Address, phone number and E-mail are compulsory</p>
 							<div class="button">
-								<a href="https://bit.ly/yeagitbisinfo" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Provide business information here</a>
+								<a href="https://wa.me/message/N7QX6UWDDIOKI1" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Provide business information here</a>
 							</div>
 						</div>
 						<!--/ End Single Feature -->
@@ -338,7 +338,7 @@
 							<h4><a href="service-single.html">Webiste Design</a></h4>
 							<p>Make a choice of how you want your website to look.Choose a website template that speaks and represent your business or professional portfolio</p>
 							<div class="button">
-								<a href="https://bit.ly/yeagitdesign" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Pick a Design</a>
+								<a href="https://wa.me/message/N7QX6UWDDIOKI1" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Pick a Design</a>
 							</div>
 						</div>
 						<!--/ End Single Feature -->
@@ -349,9 +349,9 @@
 						<div class="single-feature">
 							<div class="icon-head"><i class="fa fa-podcast"></i></div>
 							<h4><a href="service-single.html">Make Payment </a></h4>
-							<p>Processed to make the payment of N1,500 online or to our company Account Provided here, and get your fully functional website in no time</p>
+							<p>Processed to make the payment of N5000 online or to our company Account Provided here, and get your fully functional website in no time</p>
 							<div class="button">
-								<a href="https://bit.ly/yeagitmonthlypayment" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Make payment here</a>
+								<a href="https://wa.me/message/N7QX6UWDDIOKI1" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Make payment here</a>
 							</div>
 						</div>
 						<!--/ End Single Feature -->
